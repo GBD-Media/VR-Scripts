@@ -16,7 +16,7 @@
 
 
 
-## 🚀 Prefabs (Optional)
+## 🚀 Prefabs
 
 - [VRC Prefabs](https://vrcprefabs.com/)
 
