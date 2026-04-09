@@ -7,8 +7,8 @@
 
 ---
 
-## ✨ Contributors
-
+## 👥 Contributors
+(So Far)
 - Mr. E
 
 
@@ -18,10 +18,10 @@
 
 ## 🚀 Prefabs (Optional)
 
-- Live Site: https://your-demo-link.com
+- Live Site: https://some-link.com
 
 - ## Videos
-- Video Demo 1 - https://youtube.com/your-video
+- Video Demo 1 - https://youtube.com/some-video
 
 ---
 
