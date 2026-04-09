@@ -18,7 +18,7 @@
 
 ## 🚀 Prefabs (Optional)
 
-- Live Site: https://some-link.com
+- [VRC Prefabs](https://vrcprefabs.com/)
 
 - ## Videos
 - Video Demo 1 - https://youtube.com/some-video
