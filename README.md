@@ -1,18 +1,16 @@
-# Project Name
+# VR Scripts
 
-> Short description of what your project does and why it exists.
+> A Collection of usefull scripts, prefabs, and other resourses to help you create VR worlds!
 
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/REPO)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/GBD-Media/VR-Scripts)
+![GitHub stars](https://img.shields.io/github/stars/GBD-Media/VR-Scripts?style=social)
 
 ---
 
-## ✨ Features
+## ✨ Contributors
 
-- ✅ Feature one
-- ⚡ Feature two
-- 🔒 Feature three
-- 🎮 Optional fun feature
+- Mr. E
+
 
 ---
 
