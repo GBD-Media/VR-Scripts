@@ -20,7 +20,7 @@
 
 - [VRC Prefabs](https://vrcprefabs.com/)
 
-- ## Videos
+## ▶️ Videos
 - Video Demo 1 - https://youtube.com/some-video
 
 ---
