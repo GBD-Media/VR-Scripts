@@ -21,7 +21,7 @@
 - [VRC Prefabs](https://vrcprefabs.com/)
 
 ## ▶️ Videos
-- Video Demo 1 - https://youtube.com/some-video
+- [Vowgan VR](https://www.youtube.com/@VowganVR) - Great beginner friendly videos
 
 ---
 
