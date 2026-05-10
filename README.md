@@ -20,6 +20,8 @@
 
 - [VRC Prefabs](https://vrcprefabs.com/)
 - [Booth](https://booth.pm/en/browse/Game-related%20Items?q=VRChat+Prefab) - Lots of prefabs
+- [VRC World Objects](https://vr-items.me/) - More prefabs for VRC
+- [Banter Prefabs](https://bantervr.com/markit)
   
 ## ▶️ Videos
 - [Vowgan VR](https://www.youtube.com/@VowganVR) - Great beginner friendly videos
