@@ -25,6 +25,7 @@
   
 ## ▶️ Videos
 - [Vowgan VR](https://www.youtube.com/@VowganVR) - Great beginner friendly videos
+- [VR Chat for beginners](https://www.youtube.com/playlist?list=PLogIWMmBNVp4WGpAiBgaNdPGI-zkxfck3) - A great playlist for just getting started by DedZed
 
 ## Misc
 - [VRChat Creator Compainaion](https://vrchat.com/home/download)
